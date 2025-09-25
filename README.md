@@ -87,5 +87,8 @@ This project helps you understand and practice the following key programming con
 <img width="1920" height="1080" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/1df43600-9ae9-4e40-b281-258ad3003cc3" />
 
 
-<img width="1192" height="436" alt="Screenshot 2025-09-26 005833" src="https://github.com/user-attachments/assets/8e45f33f-287b-4014-a369-7b81e3a372a5" />
+<img width="1775" height="444" alt="Screenshot 2025-09-26 010326" src="https://github.com/user-attachments/assets/e4f2ae1d-efae-4aa3-b9bb-fc84510ace46" />
+
+
+
 

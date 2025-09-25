@@ -23,7 +23,7 @@
 
 # Requirements
 
-- Python 3.6+ (works with Python 3.10/3.11 too)
+- Python 3.6+
 
 - Python Libraries:
 
@@ -39,35 +39,35 @@ beautifulsoup4
 # How to Run
 
 - Clone the repository
-  git clone https://github.com/Kiran-sai-99/news-headlines-scraper.git
-  cd news-headlines-scraper
+    - git clone https://github.com/Kiran-sai-99/news-headlines-scraper.git
+    - cd news-headlines-scraper
 
 - Run the scraper script
-  python scraper.py
+    - python scraper.py
 
 # File Info
 
-scraper.py -> Main Python script containing the scraping logic.
-headlines.txt -> Auto-generated text file storing all scraped headlines.
+  - scraper.py -> Main Python script containing the scraping logic.
+  - headlines.txt -> Auto-generated text file storing all scraped headlines.
 
 # Concepts Learned
 
 This project helps you understand and practice the following key programming concepts:
 
 - Making HTTP requests in Python
-  Learn how to connect to websites, fetch their HTML content, and handle server errors.
+    - Learn how to connect to websites, fetch their HTML content, and handle server errors.
 
 - Parsing and navigating HTML
-  Understand the structure of a webpage and how to extract meaningful information using BeautifulSoup.
+    - Understand the structure of a webpage and how to extract meaningful information using BeautifulSoup.
 
 - File handling (read/write) in Python
-  Store scraped data in a persistent format (text file) safely and efficiently using with open().
+    - Store scraped data in a persistent format (text file) safely and efficiently using with open().
 
 - Error handling and program robustness
-  Learn how to use try/except to catch runtime errors (like network issues) and keep your script running smoothly.
+    - Learn how to use try/except to catch runtime errors (like network issues) and keep your script running smoothly.
 
 - Avoiding duplicates and cleaning data
-  Ensure that only unique and valid headlines are stored, demonstrating good data-cleaning practices.
+    - Ensure that only unique and valid headlines are stored, demonstrating good data-cleaning practices.
 
 # Built With
 

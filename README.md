@@ -1,7 +1,8 @@
 # News Headlines Scraper (Python)
 
--A console-based Python project that scrapes the latest news headlines from Hacker News and saves them into a text file (headlines.txt).
--This project demonstrates the practical use of Python for web scraping, parsing HTML, handling errors, and storing data in a file. It is beginner-friendly, lightweight, and can be extended to scrape other websites as well.
+- A console-based Python project that scrapes the latest news headlines from Hacker News and saves them into a text file (headlines.txt).
+
+- This project demonstrates the practical use of Python for web scraping, parsing HTML, handling errors, and storing data in a file. It is beginner-friendly, lightweight, and can be extended to scrape other websites as well.
 
 # Features
 

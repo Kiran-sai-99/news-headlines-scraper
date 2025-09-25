@@ -7,19 +7,19 @@
 # Features
 
 - Fetches real-time news headlines from Hacker News
-  The scraper connects to Hacker News and downloads the HTML content of the homepage. It extracts the latest headlines, giving you an up-to-date view of trending news and      tech topics.
+    - The scraper connects to Hacker News and downloads the HTML content of the homepage. It extracts the latest headlines, giving you an up-to-date view of trending news and tech topics.
 
 - Extracts headlines using BeautifulSoup
-  BeautifulSoup is a Python library that parses HTML and XML. The scraper finds all the headline elements (<span class="titleline">) and retrieves the text inside the links    (<a> tags). This allows us to collect the main news headlines in a clean, readable format.
+    - BeautifulSoup is a Python library that parses HTML and XML. The scraper finds all the headline elements (<span class="titleline">) and retrieves the text inside the links(<a> tags). This allows us to collect the main news headlines in a clean, readable format.
 
 - Saves headlines to a text file (headlines.txt)
-  All fetched headlines are stored persistently in a text file. This makes it easy to access, share, or analyze the headlines later without needing to scrape the website       again.
+    - All fetched headlines are stored persistently in a text file. This makes it easy to access, share, or analyze the headlines later without needing to scrape the website       again.
 
 - Displays the first 10 headlines in the terminal
-  For quick reference, the scraper prints the top 10 headlines directly in the console. This makes it convenient to see trending news without opening a file.
+    - For quick reference, the scraper prints the top 10 headlines directly in the console. This makes it convenient to see trending news without opening a file.
 
 - Lightweight and beginner-friendly
-  The project requires only a few lines of code and minimal Python knowledge. It is a great starting point to learn web scraping, error handling, file I/O, and Python          programming best practices.
+    - The project requires only a few lines of code and minimal Python knowledge. It is a great starting point to learn web scraping, error handling, file I/O, and Python          programming best practices.
 
 
 # Requirements

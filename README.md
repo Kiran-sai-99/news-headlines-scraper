@@ -77,3 +77,15 @@ This project helps you understand and practice the following key programming con
 - requests
 
 - BeautifulSoup4
+
+
+# Output Window
+
+<img width="1920" height="1080" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/a2f364b1-658c-4132-b8f8-71c1091a1a2e" />
+
+
+<img width="1920" height="1080" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/1df43600-9ae9-4e40-b281-258ad3003cc3" />
+
+
+<img width="1192" height="436" alt="Screenshot 2025-09-26 005833" src="https://github.com/user-attachments/assets/8e45f33f-287b-4014-a369-7b81e3a372a5" />
+
